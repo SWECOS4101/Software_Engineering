@@ -9,12 +9,12 @@
   -ms-user-select: none;
 }
 html {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 500;
 }
-
+/* 
 @media only screen and (max-width: 430px) {
   html {
     font-size: 18px;
   }
-}
+} */
