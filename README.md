@@ -1,4 +1,4 @@
 # Software_Engineering
-Mini Project Cos4101
+- ### Mini Project Cos4101
 
-- try to edit code
+- [SDLC (Software Development Life Cycle)](https://github.com/SWECOS4101/Software_Engineering.git)
